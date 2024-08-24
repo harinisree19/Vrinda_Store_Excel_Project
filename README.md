@@ -18,3 +18,7 @@ Charts and Graphs : Created various charts and graphs to visually represent tren
 Interactive Dashboard : Developed a comprehensive and interactive dashboard that integrates various data visualization that helps in decision-making.
 
 Business Solutions : Provided actionable business solutions based on the analysis, aimed at improving store operations and performance and to improve the upcoming year sales.
+
+Do Refer Presentation Deck for Deep Understanding 
+
+Thank You
